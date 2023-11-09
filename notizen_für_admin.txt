@@ -1,0 +1,2 @@
+# Admin login
+curl 'https://youhavebeenpwned.de/devk/index2.php' \   -H 'cookie: token=a989233d450fee12e48d5a0d9de72f9b; gastname=Admin' \   --compressed
