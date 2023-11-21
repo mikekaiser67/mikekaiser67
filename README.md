@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikekaiser67
+- 👋 Hi, I’m mikekaiser67
 - 👀 I’m interested in security awareness
 - 🌱 I’m currently learning password hashing
 
